@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+void main() {
+	double m, v;
+	cout<< " Massa = ";
+	cin >> m;
+	cout << "Kecepatan = ";
+	cin >> v;
+
+	//menghitung energi kinetik
+	int Hasil;
+	double massa = 1.5, kecepatan = 4, BeratBadan = 47.5;
+	int v; kecepatan * kecepatan == v;
+	int m; massa + BeratBadan == m;
+	double Energi_kinetik = 1 / 2 * m * v == Hasil;
+}
